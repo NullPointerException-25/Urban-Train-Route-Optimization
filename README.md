@@ -67,10 +67,14 @@ Generates:
 ---
 
 ## 📊 Visuals & Results
-_Add your screenshots or generated images here._
 
-- **Figure 1:** Density Heatmap & Proposed Stations (Cyan X)  
+
+- **Figure 1:** Density Heatmap & Proposed Stations (Cyan X)
+ <img width="1729" height="993" alt="image" src="https://github.com/user-attachments/assets/957f6b19-630f-494c-8dc4-806b3fe2be49" />
+
 - **Figure 2:** Final Optimized Route (ACO Result)
+ <img width="1312" height="1587" alt="image" src="https://github.com/user-attachments/assets/f7d0d91f-4c2c-4f6d-9e67-dbd0bdd192ca" />
+
 
 ---
 
@@ -78,7 +82,7 @@ _Add your screenshots or generated images here._
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/NullPointerException-25/Urban-Train-Route-Optimization.git
 ````
 
 ### **2. Install dependencies**
